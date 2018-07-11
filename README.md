@@ -19,13 +19,14 @@ The results presented are for the rand graph topology with 100 nodes and varying
 
 
 ## Equal costs
+
 ### [equal-costs_grid-topology_equal-dest_50-100-200-400-nodes.xlsx] (equal-costs_grid-topology_equal-dest_50-100-200-400-nodes.xlsx) 
 The results presented are for the grid graph topology  varying the number of nodes (n = 49, n = 100, n = 225, n = 400) and routing 80 flows, all costs being equal to one. The sources are multiple and with one single destination for the 100 instances.
 
 ### [equal-costs_grid-topology_multiple-dest_50-100-200-400-nodes.xlsx] (equal-costs_grid-topology_multiple-dest_50-100-200-400-nodes.xlsx)
 The results presented are for the grid graph topology varying the number of nodes (n = 49, n = 100, n = 225, n = 400) and routing 80 flows, all costs being equal to one. The sources are multiple and the destination are multiple for the 100 instances.
 
-### [equal-costs_rand-topology_multiple-dest_50-100-200-400-nodes.xlsx] (equal-costs_grid-topology_multiple-dest_50-100-200-400-nodes.xlsx)
+### [equal-costs_rand-topology_multiple-dest_50-100-200-400-nodes.xlsx] (equal-costs_rand-topology_multiple-dest_50-100-200-400-nodes.xlsx)
 The results presented are for the random  graph topology varying the number of nodes (n = 50, n = 100, n = 200, n = 400) and routing 80 flows, all costs being equal to one. The sources are multiple and the destination are multiple for the 100 instances.
 
 ### [equal-costs_rand-topology_single-dest_50-100-200-400-nodes.xlsx](equal-costs_rand-topology_single-dest_50-100-200-400-nodes.xlsx)
