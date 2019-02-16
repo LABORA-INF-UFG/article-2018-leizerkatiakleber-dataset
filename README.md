@@ -36,15 +36,25 @@ Results from: random topology, 100 nodes, 80 and 300 flows, multiple sources, mu
 ## BibTex
 
 @Inbook{hansen:80,
+
     author={Hansen, Pierre},
+    
     title={{Bicriterion Path Problems}},
+    
     bookTitle={Multiple Criteria Decision Making Theory and Application: Proceedings of the Third Conference Hagen/K{\"o}nigswinter, West Germany, August 20--24, 1979},
+    
     year={1980},
+    
     publisher={Springer Berlin Heidelberg},
+    
     address={Berlin, Heidelberg},
+    
     pages={109--127},
+    
     OPTdoi={10.1007/978-3-642-48782-8_9}
+    
 }
+
 
 @Article{climaco:82,
     author = {J. C. N. Cl\'{i}maco and E. Q. V. Martins},
