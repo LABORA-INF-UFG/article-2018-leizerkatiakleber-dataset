@@ -97,15 +97,15 @@ Results from: random topology, 100 nodes, 80 and 300 flows, multiple sources, mu
 
 @Article{berman:90,
 
- author = {Berman, O. and Einav, D. and Handler, G.},
- title = {{The Constrained Bottleneck Problem in Networks}},
- journal = {Operations Research},
- year = {1990},
- volume = {38},
- number = {1},
- pages = {178--181},
- OPTdoi = {10.1287/opre.38.1.178}
-} 
+    author = {Berman, O. and Einav, D. and Handler, G.},
+    title = {{The Constrained Bottleneck Problem in Networks}},
+    journal = {Operations Research},
+    year = {1990},
+    volume = {38},
+    number = {1},
+    pages = {178--181},
+    OPTdoi = {10.1287/opre.38.1.178}
+ } 
 
 @Article{barabasi:99,
 
