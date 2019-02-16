@@ -38,25 +38,18 @@ Results from: random topology, 100 nodes, 80 and 300 flows, multiple sources, mu
 @Inbook{hansen:80,
 
     author={Hansen, Pierre},
-    
     title={{Bicriterion Path Problems}},
-    
     bookTitle={Multiple Criteria Decision Making Theory and Application: Proceedings of the Third Conference Hagen/K{\"o}nigswinter, West Germany, August 20--24, 1979},
-    
     year={1980},
-    
     publisher={Springer Berlin Heidelberg},
-    
     address={Berlin, Heidelberg},
-    
     pages={109--127},
-    
     OPTdoi={10.1007/978-3-642-48782-8_9}
-    
 }
 
 
 @Article{climaco:82,
+
     author = {J. C. N. Cl\'{i}maco and E. Q. V. Martins},
     title = {{A bicriterion shortest path algorithm}},
     journal = {European Journal of Operational Research},
@@ -68,6 +61,7 @@ Results from: random topology, 100 nodes, 80 and 300 flows, multiple sources, mu
 }
 
 @Article{klein:82,
+
     author = {Dieter Klein and Edward Hannan},
     title = {An algorithm for the multiple objective integer linear programming problem},
     journal = {European Journal of Operational Research},
@@ -79,6 +73,7 @@ Results from: random topology, 100 nodes, 80 and 300 flows, multiple sources, mu
 }
 
 @Article{chalmet:86,
+
     author = {L.G. Chalmet and L. Lemonidis and D.J. Elzinga},
     title = {An algorithm for the bi-criterion integer programming problem},
     journal = {European Journal of Operational Research},
@@ -90,6 +85,7 @@ Results from: random topology, 100 nodes, 80 and 300 flows, multiple sources, mu
 }
 
 @Book{schrijver:86,
+
     author = {Schrijver, Alexander},
     title = {{Theory of Linear and Integer Programming}},
     year = {1986},
@@ -99,6 +95,7 @@ Results from: random topology, 100 nodes, 80 and 300 flows, multiple sources, mu
 } 
 
 @Article{berman:90,
+
  author = {Berman, O. and Einav, D. and Handler, G.},
  title = {{The Constrained Bottleneck Problem in Networks}},
  journal = {Operations Research},
@@ -110,6 +107,7 @@ Results from: random topology, 100 nodes, 80 and 300 flows, multiple sources, mu
 } 
 
 @Article{barabasi:99,
+
 	author = {Barab{\'a}si, Albert-L{\'a}szl{\'o} and Albert, R{\'e}ka},
 	title = {Emergence of Scaling in Random Networks},
 	journal = {Science},
@@ -122,6 +120,7 @@ Results from: random topology, 100 nodes, 80 and 300 flows, multiple sources, mu
 }
 
 @Article{pham:04,
+
     author = {Peter P. Pham and Sylvie Perreau},
     title = {{Increasing the network performance using multi-path routing mechanism with load balance}},
     journal = {Ad Hoc Networks},
@@ -133,6 +132,7 @@ Results from: random topology, 100 nodes, 80 and 300 flows, multiple sources, mu
 }
 
 @book{ehrgott2005multicriteria,
+
   title={Multicriteria optimization},
   author={Ehrgott, Matthias},
   volume={491},
@@ -141,6 +141,7 @@ Results from: random topology, 100 nodes, 80 and 300 flows, multiple sources, mu
 }
 
 @Article{ehrgott:06,
+
     author={Ehrgott, Matthias},
     title={A discussion of scalarization techniques for multiple objective integer programming},
     journal={Annals of Operations Research},
@@ -152,6 +153,7 @@ Results from: random topology, 100 nodes, 80 and 300 flows, multiple sources, mu
 }
 
 @book{chankong2008multiobjective,
+
   title={Multiobjective decision making: theory and methodology},
   author={Chankong, Vira and Haimes, Yacov Y},
   year={2008},
@@ -159,6 +161,7 @@ Results from: random topology, 100 nodes, 80 and 300 flows, multiple sources, mu
 }
 
 @Article{bornstein:12,
+
     author = {Cl\'{a}udio T. Bornstein and Nelson Maculan and Marta Pascoal and Leizer L. Pinto},
     title = {{Multiobjective combinatorial optimization problems with a cost and several bottleneck objective functions: An algorithm with reoptimization}} ,
     journal = {Computers \& Operations Research},
@@ -170,6 +173,7 @@ Results from: random topology, 100 nodes, 80 and 300 flows, multiple sources, mu
 }
 
 @Article{liu:12, 
+
     author={Q. Liu and J. Yin and V. C. M. Leung and Z. Cai}, 
     title={{ISAR: Improved Situation-Aware Routing Method for Wireless Mesh Backbones}},
     journal={IEEE Communications Letters}, 
@@ -182,6 +186,7 @@ Results from: random topology, 100 nodes, 80 and 300 flows, multiple sources, mu
 }
 
 @Article{galvez:13,
+
 	author   = {Juan J. G\'{a}lvez and Pedro M. Ruiz},
 	title    = {{Efficient Rate Allocation, Routing and Channel Assignment in Wireless Mesh Networks Supporting Dynamic Traffic Flows}},
 	journal  = {Ad Hoc Networks},
@@ -194,6 +199,7 @@ Results from: random topology, 100 nodes, 80 and 300 flows, multiple sources, mu
 }
 
 @Article{lokman:13,
+
     author={Lokman, Banu and K{\"o}ksalan, Murat},
     title={Finding all nondominated points of multi-objective integer programs},
     journal={Journal of Global Optimization},
@@ -205,6 +211,7 @@ Results from: random topology, 100 nodes, 80 and 300 flows, multiple sources, mu
 }
 
 @Article{bhushan:14, 
+
     author={N. Bhushan and J. Li and D. Malladi and R. Gilmore and D. Brenner and A. Damnjanovic and R. T. Sukhavasi and C. Patel and S. Geirhofer},
     title={{Network densification: the dominant theme for wireless evolution into 5G}},
     journal={IEEE Communications Magazine},
@@ -217,6 +224,7 @@ Results from: random topology, 100 nodes, 80 and 300 flows, multiple sources, mu
 }
 
 @Article{ozlen:14,
+
     author={Ozlen, Melih and Burton, Benjamin A. and MacRae, Cameron A. G.},
     title={{Multi-Objective Integer Programming: An Improved Recursive Algorithm}},
     journal={Journal of Optimization Theory and Applications},
@@ -228,6 +236,7 @@ Results from: random topology, 100 nodes, 80 and 300 flows, multiple sources, mu
 }
 
 @Article{boland:16,
+
     author={Boland, Natashia and Charkhgard, Hadi and Savelsbergh, Martin},
     title={{The L-shape search method for triobjective integer programming}},
     journal={Mathematical Programming Computation},
@@ -239,6 +248,7 @@ Results from: random topology, 100 nodes, 80 and 300 flows, multiple sources, mu
 }
 
 @Article{mello:16,
+
     author = {Micael O.M.C. de Mello and Vinicius C.M. Borges and Leizer L. Pinto and Kleber V. Cardoso},
     title = {Improving load balancing, path length, and stability in low-cost wireless backhauls},
     journal = {Ad Hoc Networks},
@@ -250,6 +260,7 @@ Results from: random topology, 100 nodes, 80 and 300 flows, multiple sources, mu
 }
 
 @article{gadegaard2016bi,
+
   title={A bi-objective approach to discrete cost-bottleneck location problems},
   author={Gadegaard, Sune Lauth and Klose, Andreas and Nielsen, Lars Relund},
   journal={Annals of Operations Research},
@@ -259,6 +270,7 @@ Results from: random topology, 100 nodes, 80 and 300 flows, multiple sources, mu
 }
 
 @book{ahuja2017network,
+
   title={Network flows: theory, algorithms, and applications},
   author={Ahuja, Ravindra K},
   year={2017},
