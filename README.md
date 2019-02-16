@@ -262,18 +262,18 @@ Results from: random topology, 100 nodes, 80 and 300 flows, multiple sources, mu
 
 @article{gadegaard2016bi,
 
-  title={A bi-objective approach to discrete cost-bottleneck location problems},
-  author={Gadegaard, Sune Lauth and Klose, Andreas and Nielsen, Lars Relund},
-  journal={Annals of Operations Research},
-  pages={1--23},
-  year={2016},
-  publisher={Springer}
+    title={A bi-objective approach to discrete cost-bottleneck location problems},
+    author={Gadegaard, Sune Lauth and Klose, Andreas and Nielsen, Lars Relund},
+    journal={Annals of Operations Research},
+    pages={1--23},
+    year={2016},
+    publisher={Springer}
 }
 
 @book{ahuja2017network,
 
-  title={Network flows: theory, algorithms, and applications},
-  author={Ahuja, Ravindra K},
-  year={2017},
-  publisher={Pearson Education}
+    title={Network flows: theory, algorithms, and applications},
+    author={Ahuja, Ravindra K},
+    year={2017},
+    publisher={Pearson Education}
 }
