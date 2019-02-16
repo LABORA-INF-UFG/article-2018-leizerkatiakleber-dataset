@@ -134,11 +134,11 @@ Results from: random topology, 100 nodes, 80 and 300 flows, multiple sources, mu
 
 @book{ehrgott2005multicriteria,
 
-  title={Multicriteria optimization},
-  author={Ehrgott, Matthias},
-  volume={491},
-  year={2005},
-  publisher={Springer Science \& Business Media}
+   title={Multicriteria optimization},
+   author={Ehrgott, Matthias},
+   volume={491},
+   year={2005},
+   publisher={Springer Science \& Business Media}
 }
 
 @Article{ehrgott:06,
@@ -155,10 +155,10 @@ Results from: random topology, 100 nodes, 80 and 300 flows, multiple sources, mu
 
 @book{chankong2008multiobjective,
 
-  title={Multiobjective decision making: theory and methodology},
-  author={Chankong, Vira and Haimes, Yacov Y},
-  year={2008},
-  publisher={Courier Dover Publications}
+   title={Multiobjective decision making: theory and methodology},
+   author={Chankong, Vira and Haimes, Yacov Y},
+   year={2008},
+   publisher={Courier Dover Publications}
 }
 
 @Article{bornstein:12,
