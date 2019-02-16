@@ -134,11 +134,11 @@ Results from: random topology, 100 nodes, 80 and 300 flows, multiple sources, mu
 
 @book{ehrgott2005multicriteria,
 
-   title={Multicriteria optimization},
-   author={Ehrgott, Matthias},
-   volume={491},
-   year={2005},
-   publisher={Springer Science \& Business Media}
+    title={Multicriteria optimization},
+    author={Ehrgott, Matthias},
+    volume={491},
+    year={2005},
+    publisher={Springer Science \& Business Media}
 }
 
 @Article{ehrgott:06,
@@ -155,10 +155,10 @@ Results from: random topology, 100 nodes, 80 and 300 flows, multiple sources, mu
 
 @book{chankong2008multiobjective,
 
-   title={Multiobjective decision making: theory and methodology},
-   author={Chankong, Vira and Haimes, Yacov Y},
-   year={2008},
-   publisher={Courier Dover Publications}
+    title={Multiobjective decision making: theory and methodology},
+    author={Chankong, Vira and Haimes, Yacov Y},
+    year={2008},
+    publisher={Courier Dover Publications}
 }
 
 @Article{bornstein:12,
@@ -201,51 +201,51 @@ Results from: random topology, 100 nodes, 80 and 300 flows, multiple sources, mu
 
 @Article{lokman:13,
 
-    author={Lokman, Banu and K{\"o}ksalan, Murat},
-    title={Finding all nondominated points of multi-objective integer programs},
-    journal={Journal of Global Optimization},
-    year={2013},
-    volume={57},
-    number={2},
-    pages={347--365},
-    OPTdoi={10.1007/s10898-012-9955-7}
+     author={Lokman, Banu and K{\"o}ksalan, Murat},
+     title={Finding all nondominated points of multi-objective integer programs},
+     journal={Journal of Global Optimization},
+     year={2013},
+     volume={57},
+     number={2},
+     pages={347--365},
+     OPTdoi={10.1007/s10898-012-9955-7}
 }
 
 @Article{bhushan:14, 
 
-    author={N. Bhushan and J. Li and D. Malladi and R. Gilmore and D. Brenner and A. Damnjanovic and R. T. Sukhavasi and C. Patel and S. Geirhofer},
-    title={{Network densification: the dominant theme for wireless evolution into 5G}},
-    journal={IEEE Communications Magazine},
-    year={2014},
-    month={Feb},
-    volume={52},
-    number={2},
-    pages={82--89},
-    OPTdoi={10.1109/MCOM.2014.6736747}
+     author={N. Bhushan and J. Li and D. Malladi and R. Gilmore and D. Brenner and A. Damnjanovic and R. T. Sukhavasi and C. Patel and S. Geirhofer},
+     title={{Network densification: the dominant theme for wireless evolution into 5G}},
+     journal={IEEE Communications Magazine},
+     year={2014},
+     month={Feb},
+     volume={52},
+     number={2},
+     pages={82--89},
+     OPTdoi={10.1109/MCOM.2014.6736747}
 }
 
 @Article{ozlen:14,
 
-    author={Ozlen, Melih and Burton, Benjamin A. and MacRae, Cameron A. G.},
-    title={{Multi-Objective Integer Programming: An Improved Recursive Algorithm}},
-    journal={Journal of Optimization Theory and Applications},
-    year={2014},
-    volume={160},
-    number={2},
-    pages={470--482},
-    OPTdoi={10.1007/s10957-013-0364-y}
+     author={Ozlen, Melih and Burton, Benjamin A. and MacRae, Cameron A. G.},
+     title={{Multi-Objective Integer Programming: An Improved Recursive Algorithm}},
+     journal={Journal of Optimization Theory and Applications},
+     year={2014},
+     volume={160},
+     number={2},
+     pages={470--482},
+     OPTdoi={10.1007/s10957-013-0364-y}
 }
 
 @Article{boland:16,
 
-    author={Boland, Natashia and Charkhgard, Hadi and Savelsbergh, Martin},
-    title={{The L-shape search method for triobjective integer programming}},
-    journal={Mathematical Programming Computation},
-    year={2016},
-    volume={8},
-    number={2},
-    pages={217--251},
-    OPTdoi={10.1007/s12532-015-0093-3}
+     author={Boland, Natashia and Charkhgard, Hadi and Savelsbergh, Martin},
+     title={{The L-shape search method for triobjective integer programming}},
+     journal={Mathematical Programming Computation},
+     year={2016},
+     volume={8},
+     number={2},
+     pages={217--251},
+     OPTdoi={10.1007/s12532-015-0093-3}
 }
 
 @Article{mello:16,
