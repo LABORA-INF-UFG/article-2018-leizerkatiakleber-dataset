@@ -33,7 +33,7 @@ Results from: random topology, 100 nodes, 80 and 300 flows, multiple sources, on
 Results from: random topology, 100 nodes, 80 and 300 flows, multiple sources, multiple destinations, different costs edges (1, 2, 3, 4, 5), 100 instances.
 
 
-##BibTex
+## BibTex
 
 @Inbook{hansen:80,
     author={Hansen, Pierre},
